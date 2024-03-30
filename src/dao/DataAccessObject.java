@@ -7,8 +7,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-import domain.Enseignement;
-import domain.Epreuve;
 import domain.Etudiant;
 
 public class DataAccessObject {
